@@ -3,9 +3,9 @@
 one:
   start_date: 2023-12-13
   end_date: 2023-12-13
-  listing_id: one
+  listing: one
 
 two:
   start_date: 2023-12-13
   end_date: 2023-12-13
-  listing_id: two
+  listing: two
